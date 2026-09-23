@@ -2,7 +2,6 @@ package org.example.library;
 
 import org.springframework.stereotype.Component;
 
-@Component
 public class Reader {
 
   private long id;
