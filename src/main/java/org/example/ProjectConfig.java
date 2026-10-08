@@ -1,10 +1,9 @@
-package org.example.library;
+package org.example;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages = "org.example.library")
+@ComponentScan(basePackages = "org.example")
 public class ProjectConfig {
-
 }
